@@ -1,4 +1,4 @@
-###Data Structures
+### Data Structures
 This repository contains the implementation of almost all the data structures.
 
 1. Arrays
